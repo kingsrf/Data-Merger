@@ -50,5 +50,9 @@ Final Output: [101, 102, 104, 105, 107, 108]
 
 
 
+Time is O(m + n), each element from customerData1 & customerData2 is processed once.
+	- So the algorithm runs in linear time relative to the total number of input elements.
 
+Space is O(1) In-place merge, no extra storage.
+	- Reusing the extra space already available in customerData1 and only using a constant number of variables.
 
