@@ -1,0 +1,39 @@
+# Java class files
+*.class
+
+# BlueJ specific project files
+package.bluej
+*.ctxt
+*.ctxt~
+*.tmp
++libs/
+doc/
+bluej.pkg
+README.TXT
+*.bak
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+build/
+out/
+target/
+.gradle/
+
+# Logs and temp files
+*.log
+*.swp
+
+# macOS & Windows junk files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
